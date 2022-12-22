@@ -19,15 +19,13 @@
 ### 💡 Community Projects
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/alihasnain147/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.youtube.com/account/https://www.youtube.com/account?sub_confirmation=1">
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
 <a href="https://www.linkedin.com/in/alihasnain147Official/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://www.facebook.com/profile.php?id=100072598906419">
+<a href="https://www.facebook.com/profile.php">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
 <a href="https://www.twitter.com/alihasnain147Pro/">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
