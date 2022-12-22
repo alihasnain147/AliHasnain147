@@ -34,8 +34,6 @@
 
 <a href="mailto:alihasnain0500@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
-<a href="https://www.messenger.com/">
-<img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 </div>
 
 <br><h2 align="center"> Community Projects 🚀</h2>
