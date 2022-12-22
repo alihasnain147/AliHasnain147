@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
 <a href="https://www.linkedin.com/in/alihasnain147Official/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://www.facebook.com/profile.php">
+<a href="https://www.facebook.com/profile.php?id=100072598906419">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
 <a href="https://www.twitter.com/alihasnain147Pro/">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
@@ -34,7 +34,7 @@
 
 <a href="mailto:alihasnain0500@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
-<a href="https://www.messenger.com/t/100084906382539/">
+<a href="https://www.messenger.com/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 </div>
 
