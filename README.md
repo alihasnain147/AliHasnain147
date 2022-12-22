@@ -9,7 +9,7 @@
 
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
-- 😄 Pronouns me as `/ue-saw-ma/`
+- 😄 Pronouns me as `/al-i-ha/`
 - 💻 Full-stack Developer
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
@@ -43,8 +43,6 @@
 <img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://www.buymeacoffee.com/alihasnain147">
-<img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
 <br><h2 align="center"> Community Projects 🚀</h2>
