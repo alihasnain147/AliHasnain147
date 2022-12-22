@@ -30,7 +30,7 @@
 - [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
 - [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
 
-[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/moazzamgill112)
+[![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/alihasnain147)
 
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff"></a>
 <a href="https://www.twitter.com/moazzamgialihasnain147ll112Pro/">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=flat-square&logo=Twitter&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/moazzamgill112Official/">
+<a href="https://www.instagram.com/alihasnain147Official/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=ffffff"></a>
 <a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
 <img src="https://img.shields.io/badge/Reviews-211F1F?style=flat-square&logo=google&logoColor=ffffff"></a>
@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Chat-1877F2?style=flat-square&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923100007773?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=flat-square&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://www.buymeacoffee.com/moazzamgill112">
+<a href="https://www.buymeacoffee.com/alihasnain147">
 <img src="https://img.shields.io/badge/Support-Developer-784fff?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
@@ -88,13 +88,13 @@
 
 <br><h2 align="center"> Open-Source Projects ✨</h2>
 
-> **FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://moazzamgill112.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/moazzamgill112/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+> **FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://alihasnain147.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/alihasnain147/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
-> **Weather Forecast**<br>Website for live weather broadcasting and weather prediction<br>[![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://moazzamgill112.github.io/weather-forecast/) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/moazzamgill112/weather-forecast) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://flutter.dev)
+> **Weather Forecast**<br>Website for live weather broadcasting and weather prediction<br>[![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://alihasnain147.github.io/weather-forecast/) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/alihasnain147/weather-forecast) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://flutter.dev)
 
-> **Compiler Contruction Building Blocks Software**<br>Java Software that contains building blocks for the construction of a compiler<br>[![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=hack-the-box&logoColor=ffffff)](https://github.com/moazzamgill112/Compiler-Construction-Building-Blocks/releases) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/moazzamgill112/Compiler-Construction-Building-Blocks) [![Made with Java](https://img.shields.io/badge/Made_with-JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
+> **Compiler Contruction Building Blocks Software**<br>Java Software that contains building blocks for the construction of a compiler<br>[![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=hack-the-box&logoColor=ffffff)](https://github.com/alihasnain147/Compiler-Construction-Building-Blocks/releases) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/alihasnain147/Compiler-Construction-Building-Blocks) [![Made with Java](https://img.shields.io/badge/Made_with-JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
 
-> **MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://moazzamgill112.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
+> **MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://alihasnain147.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
 
 <br><h2 align="center"> Global Contributions 💻</h2>
 
@@ -127,24 +127,24 @@
 <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=flat-square&logo=Adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
 <br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazzamgill112&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasnain147&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
 
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=moazzamgill112&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihasnain147&theme=dark&hide_title=true&include_all_commits=true"/>
 </div><br>
 <div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=moazzamgill112"> <br><br> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=moazzamgill112&margin-w=15&margin-h=15" />
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=alihasnain147"> <br><br> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=alihasnain147&margin-w=15&margin-h=15" />
 </div>
 <br>
 
-![Usama Sarwar Contributions](https://github.com/moazzamgill112/moazzamgill112/blob/output/github-contribution-grid-snake.svg)
+![Usama Sarwar Contributions](https://github.com/alihasnain147/alihasnain147/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
-<p><a href="https://www.buymeacoffee.com/moazzamgill112"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
+<p><a href="https://www.buymeacoffee.com/alihasnain147"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
 </div>
