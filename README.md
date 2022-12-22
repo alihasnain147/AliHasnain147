@@ -1,13 +1,13 @@
 <div align="center">
 
-![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=alihasnain147.alihasnain147) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/alihasnain147?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/alihasnain147?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/alihasnain147/fluttercapsule?style=social"> <a href="https://www.youtube.com/alihasnain147?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=alihasnain147.alihasnain147) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/alihasnain147?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/alihasnain147?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/alihasnain147/fluttercapsule?style=social"> <a href="https://www.youtube.com/alihasnain147?sub_confirmation=1">
 
 
 </div>
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-<img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
+<img align="right" alt="Developer Ali Hasnain" src="images/coding.gif" width="300"/>
 
 - 😄 Pronouns me as `/al-i-ha/`
 - 💻 Full-stack Developer
