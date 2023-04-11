@@ -36,27 +36,6 @@
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 </div>
 
-<br><h2 align="center"> Tools & Technology 🛠</h2>
-
-<div align="center">
-<!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=flat-square&logo=Adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=flat-square&logo=Adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-<br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasnain147&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
-<br>
-
 <br><h2 align="center"> GitHub Statistics 📈 </h2>
 
 <div align="center">
