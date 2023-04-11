@@ -2,7 +2,6 @@
 
 ![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=alihasnain147.alihasnain147) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/alihasnain147?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/alihasnain147?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/alihasnain147/fluttercapsule?style=social"> <a href="https://www.youtube.com/alihasnain147?sub_confirmation=1">
 
-
 </div>
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
@@ -17,6 +16,7 @@
 - 📱 +923-0-8824-669-6
 
 ### 💡 Community Projects
+
 <h2 align="center"> Let's Connect 🔥</h2>
 <div align="center">
 <a href="https://github.com/alihasnain147/">
@@ -35,26 +35,6 @@
 <a href="mailto:alihasnain0500@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 </div>
-
-<br><h2 align="center"> Community Projects 🚀</h2>
-
-### Assignmento | Freelancing Platform
-
-> <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
-> Assignmento.org is one of the world's largest freelancing and crowdsourcing community and marketplace by the number of users and freelancers. Assignmento connects over a Million employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting, legal services and many more. Freelancers are building the future on Assignmento every day, exploring their stories, celebrating their accomplishments, and finding inspiration for their own work. Assignmento.org is on the mission to build a platform that will create equal opportunities for everyone irrespective of caste, creed and nation. Our mission to create economic opportunities so people have better lives has taken us so much further. As a result, we’ve become the world’s work marketplace where everyday businesses of all sizes and independent talent from around the globe meet here to accomplish incredible things. Assignmento is focusing on building a productive ecosystem for the freelancing community. <a  href="https://play.google.com/store/apps/details?id=dev.usama.assignmento"><img align="right" src="images/googlePlay.gif" alt="Assignmento App" height="50px" /></a>As Freelancers - we strive to live out and uphold the following values individually and as a collective self-discovery, growth, commitment, respect, empowerment, legacy and inclusivity.
->
-> <br>[![Website](https://img.shields.io/badge/Visit_Website-Assignmento-211F1F?logo=google-chrome&logoColor=ffffff)](https://assignmento.org)
-
-<br>
-
-<br><h2 align="center"> Recent Projects ⚡</h2>
-
-> **Hotspot+**<br>Mobile App containing live streams from 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://www.usama.dev/hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
-> **Assignmento**<br>Freelancing Platform empowering over 1M Freelancers and Businesses<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.assignmento) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
-
-> **Comsian Network**<br>COMSATS Alumni Network for the students of COMSATS University Islamabad<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](<[https://play.google.com/store/apps/details?id=dev.usama.assignmento](https://comsian.net)>) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
-
 
 <br><h2 align="center"> Tools & Technology 🛠</h2>
 
@@ -87,7 +67,6 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=alihasnain147&margin-w=15&margin-h=15" />
 </div>
 <br>
-
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
